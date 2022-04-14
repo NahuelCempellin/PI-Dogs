@@ -1,0 +1,21 @@
+export const DOGS_URL= 'http://localhost:3001/dogs';
+export const DOG_ID='http://localhost:3001/dogs/';
+export const DOG_POST='http://localhost:3001/dogie';
+export const DOG_NAME='http://localhost:3001/dogs?name=';
+export const TEMP_ROUTE='http://localhost:3001/temperaments';
+export const HEIGHT_ROUTE='http://localhost:3001/height';
+export const WEIGHT_ROUTE='http://localhost:3001/weight';
+export const NOT_FOUND= 'https://c.tenor.com/Jbs_YtOgGyoAAAAC/dogie-dog.gif';
+export const TIME_OUT='https://c.tenor.com/W7-aHnvVqnwAAAAd/time-out-sad.gif';
+export const GET_WEIGHT='GET_WEIGHT';
+export const GET_HEIGHT='GET_HEIGHT'
+export const GET_TEMP='GET_TEMP';
+export const ORDER_ALPH='ORDER_ALPH';
+export const ORDER_TEMP='ORDER_TEMP';
+export const ORDER_CREATE='ORDER_CREATE';
+export const ORDER_WEIGHT='ORDER_WEIGHT';
+export const ORDER_HEIGHT='ORDER_HEIGHT';
+export const GET_NAME='GET_NAME';
+export const GET_DETAIL='GET_DETAIL';
+export const GET_DOGS= 'GET_DOGS';
+export const POST_DOG='POST_DOG';
